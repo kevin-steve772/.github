@@ -12,3 +12,5 @@
 - bilibili: [https://space.bilibili.com/3707044152478483](https://space.bilibili.com/3707044152478483)(给我的b站投个币awa)
 - Outlook邮箱: [kevin202634@outlook.com](mailto:kevin202634@outlook.com)
 - 个人网站: [https://kevin-steve772.github.io](https://kevin-steve772.github.io)
+
+[![Tokens Stats](https://tokens.ci/api/embed/kevin-steve772/svg?template=graph&today=1&tokens=compact&cost=compact)](https://tokens.ci/u/kevin-steve772)
